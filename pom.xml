@@ -21,7 +21,8 @@
 		<module>product-service</module>
 		<module>inventory-service</module>
 		<module>order-service</module>
-	</modules>
+        <module>discovery-server</module>
+    </modules>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
